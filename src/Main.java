@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // ООП:
+        // ООП: Вложенные и Анонимные классы
 //        Employee[] staff = new Employee[2];
 //        staff[0] = new Zookeeper("Иван", 101);
 //        staff[1] = new Veterinarian("Анна", 102);
